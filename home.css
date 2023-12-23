@@ -1,0 +1,162 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.home-H6m {
+  width: 100%;
+  height: 81.2rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #000000;
+}
+.home-H6m .android-large-5-hAV {
+  box-sizing: border-box;
+  padding-top: 1.1rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.home-H6m .android-large-5-hAV .auto-group-ucfw-y1X {
+  width: 100%;
+  height: 58.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-H6m .android-large-5-hAV .auto-group-ucfw-y1X .burger-hamburger-cheeseburger-1-6rq {
+  width: 50rem;
+  height: 54.1rem;
+  position: absolute;
+  left: 0;
+  top: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-H6m .android-large-5-hAV .auto-group-ucfw-y1X .big-kitchen-burger-omF {
+  width: 29.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 51.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-H6m .android-large-5-hAV .auto-group-ucfw-y1X .at-your-door-step-Guj {
+  width: 20.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 55.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffbe18;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-H6m .android-large-5-hAV .auto-group-ucfw-y1X .logo-removebg-preview-1-aQd {
+  width: 38.3rem;
+  height: 9rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-H6m .android-large-5-hAV .auto-group-jxlq-hVF {
+  box-sizing: border-box;
+  padding: 1.3rem 3.2rem 2.9rem 2.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-H6m .android-large-5-hAV .auto-group-jxlq-hVF .auto-group-j6fx-ooB {
+  margin: 0rem 14.1rem 2.8rem 0rem;
+  width: 18rem;
+  height: 2.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-H6m .android-large-5-hAV .auto-group-jxlq-hVF .auto-group-j6fx-ooB .make-an-order-of-any-food-of-choice-jRw {
+  width: 17.4rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #eeeeee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-H6m .android-large-5-hAV .auto-group-jxlq-hVF .auto-group-j6fx-ooB .and-get-it-deliverd-to-your-door-step-Dru {
+  width: 18rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 0;
+  top: 1.2rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #eeeeee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-H6m .android-large-5-hAV .auto-group-jxlq-hVF .auto-group-ge29-ujj {
+  margin: 0rem 0rem 1.6rem 0.9rem;
+  width: 31.2rem;
+  height: 5.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffbe18;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.home-H6m .android-large-5-hAV .auto-group-jxlq-hVF .auto-group-xzlu-8sP {
+  margin-left: 0.9rem;
+  width: 31.2rem;
+  height: 5.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #ffbe18;
+  box-sizing: border-box;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
