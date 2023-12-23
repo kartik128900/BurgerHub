@@ -1,0 +1,244 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.details-WKo {
+  width: 100%;
+  height: 81.2rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.details-WKo .android-large-4-SjF {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffbe18;
+}
+.details-WKo .android-large-4-SjF .auto-group-eddx-Av9 {
+  box-sizing: border-box;
+  padding-bottom: 2.699rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-eddx-Av9 .fc46555f342d6e13f99991ab1065-1-usj {
+  margin-bottom: 84.7048rem;
+  width: 50rem;
+  height: 35.0952rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-eddx-Av9 .vector-dYq {
+  margin-left: 1.7rem;
+  width: 1.3995rem;
+  height: 1.001rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-ye4m-ZhP {
+  width: 100%;
+  height: 29.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-ye4m-ZhP .afec0248493a2a967cf3d5160992441e-1-7iu {
+  width: 10.2rem;
+  height: 15.4rem;
+  position: absolute;
+  left: 0;
+  top: 5.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.details-WKo .android-large-4-SjF .auto-group-ye4m-ZhP .fc46555f342d6e13f99991ab1065-2-dSM {
+  width: 15.8rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 27.6rem;
+  top: 8.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.details-WKo .android-large-4-SjF .auto-group-ye4m-ZhP .vector-41-wxq {
+  width: 23.3rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 21.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.details-WKo .android-large-4-SjF .auto-group-ye4m-ZhP .f75462591e040e4a643dc0f4dab39e-1-g9j {
+  width: 24.5rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 {
+  box-sizing: border-box;
+  padding-bottom: 1.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-r8r3-KiV {
+  margin: 0rem 16.5rem 2.4rem 15rem;
+  width: calc(100% - 31.5rem);
+  display: flex;
+  column-gap: 0.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-r8r3-KiV .rectangle-10738-djB {
+  width: 1rem;
+  height: 0.5rem;
+  background-color: #f6f6f6;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-r8r3-KiV .rectangle-10736-m4h {
+  width: 3rem;
+  height: 0.5rem;
+  background-color: #f6f6f6;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-r8r3-KiV .rectangle-10737-WHB {
+  width: 1rem;
+  height: 0.5rem;
+  background-color: #f6f6f6;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-mphs-TCR {
+  margin-right: 1.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 2.4rem 2.6rem 1.7rem;
+  width: 36rem;
+  border: solid 0.3rem #ffbe18;
+  background-color: #0d0c10;
+  border-radius: 0 20rem 3.4rem 3.4rem;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-mphs-TCR .beef-juicy-burger-N4V {
+  margin-bottom: 1.3555rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-mphs-TCR .auto-group-ygff-tHj {
+  margin: 0rem 0rem 1.024rem 0.383rem;
+  display: flex;
+  align-items: center;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-mphs-TCR .auto-group-ygff-tHj .vector-Qms {
+  margin-right: 0.2083rem;
+  width: 1.4583rem;
+  height: 1.421rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-mphs-TCR .auto-group-ygff-tHj .vector-MSD {
+  margin-right: 0.5208rem;
+  width: 1.4583rem;
+  height: 1.421rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-mphs-TCR .auto-group-ygff-tHj .vector-JMT {
+  margin-right: 0.2083rem;
+  width: 1.4583rem;
+  height: 1.421rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-mphs-TCR .auto-group-ygff-tHj .vector-3Zw {
+  margin-right: 0.5208rem;
+  width: 1.4583rem;
+  height: 1.421rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-mphs-TCR .auto-group-ygff-tHj .vector-o3K {
+  width: 1.4583rem;
+  height: 1.421rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-mphs-TCR .item-20-9cy {
+  margin: 0rem 0rem 3rem 0.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-mphs-TCR .description-U9T {
+  margin: 0rem 0rem 0.8rem 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-mphs-TCR .juicy-big-loaded-with-toppings-of-my-choice-high-quality-beef-medium-to-well-with-cheese-and-bacon-on-a-multigrain-bun-a-huge-single-or-triple-burger-with-all-the-fixings-cheese-lettuce-tomato-onions-and-special-sauce-or-mayonnaise-zdb {
+  margin: 0rem 0rem 4.1rem 0.3rem;
+  max-width: 31.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.details-WKo .android-large-4-SjF .auto-group-uxgu-PK3 .auto-group-mphs-TCR .auto-group-dbgq-CDs {
+  margin-left: 0.7rem;
+  width: 31.2rem;
+  height: 5.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffbe18;
+  border-radius: 4rem;
+}
